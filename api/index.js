@@ -1,9 +1,3 @@
-/*
- * @Author: 李浩栋
- * @Begin: 2019-08-19 13:47:19
- * @Update: 2019-12-08 12:02:19
- * @Update log: 更新日志
- */
 import axios from 'axios'
 import {
   bannerSwiper,

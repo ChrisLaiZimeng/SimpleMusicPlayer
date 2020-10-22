@@ -1,9 +1,3 @@
-/*
- * @Author: 李浩栋
- * @Begin: 2019-08-19 13:42:17
- * @Update: 2019-12-03 13:37:22
- * @Update log: 更新日志
- */
 const api = process.env.NODE_ENV === 'development' ? '/api' : ''
 
 // ===================发现页面
